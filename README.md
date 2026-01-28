@@ -16,7 +16,7 @@
 ### Framework
 SmartAgent is a skill-integrated multi-agent framework that systematically incorporates expert auditing skills with large language model (LLM)-based smart contract vulnerability detection.
 
-In SmartAgent, a skill encapsulates expert auditing experience for a specific vulnerability pattern, including structured vulnerability knowledge, analysis workflows, and representative code examples commonly used by human auditors. Rather than treating vulnerability detection as a monolithic task, SmartAgent integrates these skills with LLM-based analysis by decomposing the auditing process into specialized roles that collaboratively analyze smart contract code in a closed-loop workflow.
+In SmartAgent, a skill encapsulates expert auditing experience for a specific vulnerability pattern, including structured vulnerability knowledge, analysis workflows, and representative code examples commonly used by human auditors. Rather than treating vulnerability detection as a monolithic task, SmartAgent integrates these skills with LLM-based analysis by decomposing the auditing process into specialized roles that collaboratively analyze smart contract code in a closed-loop workflow.
 
 ### Key Features
 
